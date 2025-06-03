@@ -1,9 +1,9 @@
 
-# 🛰️ CS 544 Chat Protocol – Stateful UDP Messaging System
+# CS 544 Chat Protocol – Stateful UDP Messaging System
 
 This project implements a **stateful, real-time chat protocol** over UDP as part of the **CS 544: Computer Networks** course at **Drexel University**. The system supports user authentication, public and private messaging, user tracking, and proper protocol state management using a **Deterministic Finite Automaton (DFA)**.
 
-## 📌 Project Overview
+## Project Overview
 
 - **Type**: UDP-based chat protocol
 - **Language**: Python 3
@@ -13,7 +13,7 @@ This project implements a **stateful, real-time chat protocol** over UDP as part
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 | File        | Description                                                |
 |-------------|------------------------------------------------------------|

@@ -117,8 +117,8 @@ Password: secret
 
 ## Contributors
 
-- Priyank Jhaveri  
-- Prapti Patel  
-- Darsh Solanki  
+- Priyank Jhaveri - pj365@drexel.edu
+- Prapti Patel  - pp695@drexel.edu
+- Darsh Solanki - ds3923@drexel.edu
 
 ---
